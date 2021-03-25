@@ -1,0 +1,18 @@
+C:\Users\Ghost\documents\visual studio 2010\Projects\Romans Pizza vb\Romans Pizza vb\bin\Debug\Romans Pizza vb.exe
+C:\Users\Ghost\documents\visual studio 2010\Projects\Romans Pizza vb\Romans Pizza vb\bin\Debug\Romans Pizza vb.pdb
+C:\Users\Ghost\documents\visual studio 2010\Projects\Romans Pizza vb\Romans Pizza vb\bin\Debug\Romans Pizza vb.xml
+C:\Users\Ghost\documents\visual studio 2010\Projects\Romans Pizza vb\Romans Pizza vb\obj\x86\Debug\Romans_Pizza_vb.Form1.resources
+C:\Users\Ghost\documents\visual studio 2010\Projects\Romans Pizza vb\Romans Pizza vb\obj\x86\Debug\Romans_Pizza_vb.Resources.resources
+C:\Users\Ghost\documents\visual studio 2010\Projects\Romans Pizza vb\Romans Pizza vb\obj\x86\Debug\Romans Pizza vb.vbproj.GenerateResource.Cache
+C:\Users\Ghost\documents\visual studio 2010\Projects\Romans Pizza vb\Romans Pizza vb\obj\x86\Debug\Romans Pizza vb.exe
+C:\Users\Ghost\documents\visual studio 2010\Projects\Romans Pizza vb\Romans Pizza vb\obj\x86\Debug\Romans Pizza vb.xml
+C:\Users\Ghost\documents\visual studio 2010\Projects\Romans Pizza vb\Romans Pizza vb\obj\x86\Debug\Romans Pizza vb.pdb
+C:\Users\Shazia Rashid\Desktop\Romans Pizza vb\Romans Pizza vb\obj\x86\Debug\Romans Pizza vb.exe
+C:\Users\Shazia Rashid\Desktop\Romans Pizza vb\Romans Pizza vb\obj\x86\Debug\Romans Pizza vb.xml
+C:\Users\Shazia Rashid\Desktop\Romans Pizza vb\Romans Pizza vb\obj\x86\Debug\Romans Pizza vb.pdb
+C:\Users\Shazia Rashid\Desktop\Romans Pizza vb\Romans Pizza vb\bin\Debug\Romans Pizza vb.exe
+C:\Users\Shazia Rashid\Desktop\Romans Pizza vb\Romans Pizza vb\bin\Debug\Romans Pizza vb.pdb
+C:\Users\Shazia Rashid\Desktop\Romans Pizza vb\Romans Pizza vb\bin\Debug\Romans Pizza vb.xml
+C:\Users\Shazia Rashid\Desktop\Romans Pizza vb\Romans Pizza vb\obj\x86\Debug\Romans_Pizza_vb.Form1.resources
+C:\Users\Shazia Rashid\Desktop\Romans Pizza vb\Romans Pizza vb\obj\x86\Debug\Romans_Pizza_vb.Resources.resources
+C:\Users\Shazia Rashid\Desktop\Romans Pizza vb\Romans Pizza vb\obj\x86\Debug\Romans Pizza vb.vbproj.GenerateResource.Cache
